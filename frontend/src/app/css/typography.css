@@ -1,0 +1,19 @@
+.headline {
+    font-size: 3rem;
+}
+
+.headline-medium {
+    font-size: 1.75rem;
+}
+
+.body-text {
+    font-size: 1rem;
+}
+
+.body-small {
+    font-size: 0.875rem; /*14px*/
+}
+
+.button {
+    text-transform: capitalize;
+}
