@@ -1,0 +1,2 @@
+CREATE DATABASE secrets;
+CREATE TABLE messages (ID VARCHAR(20), maxReads INT, message VARCHAR(4096), expire DATE, createOn DATE, password VARCHAR(1024));
